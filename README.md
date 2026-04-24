@@ -39,7 +39,7 @@ To explore these notes locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AnkushSaral/HTML-Learning.git
 
 2. **Navigate to a directory:**
    ```bash
